@@ -13,7 +13,7 @@ Azmi Nurul Azizah
 
 ## How to Setting
 
-1. aNode.js
+1. Node.js
 2. Java SDK and set the JAVA_HOME environment variable
 3. Android Studio and set the ANDROID_HOME environment variable
 4. Appium Server GUI and Appium Inspector
